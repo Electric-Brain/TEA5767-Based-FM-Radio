@@ -1,4 +1,4 @@
-/* Final FM radio sketch
+/* 
    - TEA5767 direct I2C (no library)
    - LCD 16x2 (4-bit mode): RS=7, E=8, D4=9, D5=10, D6=11, D7=12
    - Buttons: UP=2, DOWN=3, AUTO=4  (use INPUT_PULLUP, buttons to GND)
